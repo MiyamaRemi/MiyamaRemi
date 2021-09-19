@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MiyamaRemi
 - 👀 I’m interested in: Cook
 - 🌱 I’m currently learning: Reinforcement Learning & Computer Vision
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: lu_miyama@outlook.com
 
 <!---
